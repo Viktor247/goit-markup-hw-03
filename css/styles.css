@@ -47,7 +47,7 @@ body {
 }
 
 img {
-  display: inline-block;
+  display: block;
   max-width: 100%;
   height: auto;
 }
@@ -157,6 +157,10 @@ a {
 
 .con-icon {
   margin-right: 10px;
+}
+
+.item-connect img {
+  display: inline-block;
 }
 
 /*Мейн*/
